@@ -1,3 +1,4 @@
+![logo](https://github.com/aayushdhakal69/aayushdhakal69/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aayush Dhakal</h1>
 <h3 align="center">A passionate Python developer from Nepal.🇳🇵</h3>
 
