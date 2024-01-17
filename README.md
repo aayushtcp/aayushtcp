@@ -1,6 +1,6 @@
 ![logo](https://github.com/aayushdhakal69/aayushdhakal69/blob/main/banner2.png)
-<h1 align="center">Hi 👋, I'm Aayush Dhakal</h1>
-<h3 align="center">A passionate Python developer from Nepal.🇳🇵</h3>
+<h1 align="center">Aayush Dhakal</h1>
+<h3 align="center">PYTHONNNN !</h3>
 
 <img align="right" alt="aayyushcoding" width="460px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
