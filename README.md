@@ -1,4 +1,4 @@
-![logo](https://github.com/aayushdhakal69/aayushdhakal69/blob/main/banner2.png)
+![logo](https://github.com/aayushdhakal69/aayushdhakal69/blob/main/banner.png)
 <h1 align="center">Aayush Dhakal</h1>
 <h3 align="center">PYTHONNNN !</h3>
 
